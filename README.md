@@ -103,4 +103,15 @@ equivalent of <code>&amp;mdash;</code>.</p>
 
 \*literal asterisks\*
 
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [ ] completed
+
+# 本月要做的事情
+
+- [x] 你在干嘛
+
+
 # 到此为止,我们的markdown教程全部结束
